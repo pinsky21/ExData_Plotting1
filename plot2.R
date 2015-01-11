@@ -5,7 +5,7 @@
 ### 1. Read in Electric Power Consumption data, found here:
 ###     https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip
 ### 2. Take subset of this data for dates 2007-02-01 and 2007-02-02
-### 2. Create a PNG of a plot of Global Active Power data
+### 3. Create a PNG of a plot of Global Active Power data
 
 
 # load the dplyr library for quick data.frame manipulation
